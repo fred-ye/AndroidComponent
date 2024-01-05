@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidComponent"
 include(":app")
- 
+include(":lib_async")
